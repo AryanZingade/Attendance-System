@@ -1,0 +1,5 @@
+﻿tensorflow
+opencv-python
+numpy
+matplotlib
+openpyxl
